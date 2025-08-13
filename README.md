@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ehtesham Faisal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">🎓 Bachelor’s student passionate about turning ideas into efficient, scalable, and creative solutions. 💻 Skilled in Python, C++, and familiar with SQL for backend logic and data management. ⚽ When I’m not coding, you’ll find me playing outdoor football or exploring the world of e-sports. 🌱 Always learning, experimenting, and building projects that challenge me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qurexi&label=Profile%20views&color=0e75b6&style=flat" alt="qurexi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qurexi" alt="qurexi" /></a> </p>
 
-- 🌱 I’m currently learning **WebDev**
+- 🌱 I’m currently learning **Java Script**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **Css**
 
 - 📫 How to reach me **faisalshami674@gmail.com**
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shami faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shami faisal" height="30" width="40" /></a>
+<a href="https://twitter.com/@shamifaisal227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shamifaisal227" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shami faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shami faisal" height="30" width="40" /></a>
 <a href="https://fb.com/shami faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shami faisal" height="30" width="40" /></a>
 <a href="https://instagram.com/ehtesham_674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehtesham_674" height="30" width="40" /></a>
